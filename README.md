@@ -15,3 +15,4 @@ Além do desafio técnico com **Python, SQL e técnicas de Data Modeling**, o pr
 
 <img width="792" height="192" alt="Captura de tela 2026-03-19 220204" src="https://github.com/user-attachments/assets/9f45d38c-9f81-44a5-8646-9fe271574c0e" />
 
+![20260313_144816960_iOS](https://github.com/user-attachments/assets/8b19f927-0f4d-4037-ba23-6432ae18526e)
